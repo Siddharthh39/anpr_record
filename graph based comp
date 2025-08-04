@@ -1,0 +1,7 @@
+| Paper / Model                | Detection Accuracy (%) | Processing Time (ms) |
+|------------------------------|-----------------------|---------------------|
+| Paper 1 (Campus Gates)       | Not quantified ("High")| Not specified       |
+| Paper 2 (YOLOv8 + OCRs)      | 95                    | Not specified       |
+| Paper 3 (OpenCV)             | Not quantified ("High")| Not specified       |
+| Paper 4 (Car Model + Plate)  | 97.5                  | 108                 |
+| **Your Model (YOLO v11)**    | 97.5+ (flexible OCR)  | 250                 |
